@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.mkag.pf.ExcelProcessorImpTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-01T03:34:50" hostname="MARK-DPC" time="0.699">
+  <properties/>
+  <testcase name="testProcessDataReturn()" classname="org.mkag.pf.ExcelProcessorImpTest" time="0.699"/>
+  <system-out><![CDATA[{22/03/2021=[Transaction{date='22/03/2021', name='PAYPAL *ULTIMATESH', accountNumber='11133760', sortCode=''11-00-74'}, Transaction{date='22/03/2021', name='PAYPAL *MICROSOFT', accountNumber='11133760', sortCode=''11-00-74'}, Transaction{date='22/03/2021', name='PAYPAL *MICROSOFT', accountNumber='11133760', sortCode=''11-00-74'}], 04/01/2021=[Transaction{date='04/01/2021', name='0.29', accountNumber='11133760', sortCode='1.113376E7'}, Transaction{date='04/01/2021', name='PAYPAL *EPICINTERN', accountNumber='11133760', sortCode=''11-00-74'}, Transaction{date='04/01/2021', name='CAPITAL ONE', accountNumber='11133760', sortCode=''11-00-74'}, Transaction{date='04/01/2021', name='DELIVEROO.CO.UK', accountNumber='11133760', sortCode=''11-00-74'}, Transaction{date='04/01/2021', name='Trading212UK', accountNumber='11133760', sortCode=''11-00-74'}], 29/03/2021=[Transaction{date='29/03/2021', name='CAPITAL ONE EUROPE', accountNumber='11133760', sortCode=''11-00-74'}]}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
